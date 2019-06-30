@@ -9,7 +9,9 @@ This project involves exploring the U.S. National Oceanic and Atmospheric Admini
  
 There is also some documentation of the database available. Here you will find how some of the variables are constructed/defined.
 National Weather Service [Storm Data Documentation](https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2Fpd01016005curr.pdf)
+
 National Climatic Data Center Storm Events [FAQ](https://d396qusza40orc.cloudfront.net/repdata%2Fpeer2_doc%2FNCDC%20Storm%20Events-FAQ%20Page.pdf)
+
 
 The events in the database start in the year 1950 and end in November 2011. In the earlier years of the database there are generally fewer events recorded, most likely due to a lack of good records. More recent years should be considered more complete.
 
@@ -28,4 +30,5 @@ Consider writing your report as if it were to be read by a government or municip
 For this assignment you will need some specific tools
 
 1- RStudio: You will need RStudio to publish your completed analysis document to RPubs. You can also use RStudio to edit/write your analysis.
+
 2- knitr: You will need the knitr package in order to compile your R Markdown document and convert it to HTML
